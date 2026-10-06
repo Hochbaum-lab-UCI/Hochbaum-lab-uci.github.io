@@ -1,21 +1,11 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <em>living matter, by design</em> · University of California, Irvine
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>mail: 544 Engineering Tower</p>
-    <p>University of California, Irvine</p>
-    <p>Irvine, CA 92697-2575</p>
-    <p>hochbaum at uci dot edu</p>
+subtitle: <bf>University of California, Irvine<br>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
