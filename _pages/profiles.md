@@ -14,8 +14,8 @@ profiles:
     content: about_hochbaum.md
     image_circular: true
     more_info: >
-      <p>[Mail: 544 Engineering Tower]</p>
+      <p>Mail: 544 Engineering Tower</p>
       <p>University of California, Irvine</p>
-      <p>Irvine, CA [92617-2575]</p>
+      <p>Irvine, CA 92617-2575</p>
       <p>hochbaum at uci dot edu</p>
 ---
