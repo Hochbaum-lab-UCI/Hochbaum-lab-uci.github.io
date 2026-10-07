@@ -15,7 +15,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Full lists on [Google Scholar](https://scholar.google.com/citations?user=_0R-1WMAAAAJ) and [PubMed]((https://pubmed.ncbi.nlm.nih.gov/?term=Hochbaum+AI&sort=date)).
+Full lists on [Google Scholar](https://scholar.google.com/citations?user=_0R-1WMAAAAJ) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hochbaum+AI&sort=date).
 
 <!-- Bibsearch Feature -->
 
