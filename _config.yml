@@ -367,7 +367,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Hochbaum]
-  first_name: [Allon, A., A. I.]
+  first_name: [Allon, Allon I., Allon I, A., A. I., A.I.]
 
   style: apa
   locale: en
