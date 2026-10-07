@@ -15,6 +15,7 @@ profiles:
     image_circular: true
     more_info: >
       <p>Mail: 544 Engineering Tower</p>
+      <p>Office: 4056 Interdisciplinary Science and Engineering Building</p>
       <p>University of California, Irvine</p>
       <p>Irvine, CA 92617-2575</p>
       <p>hochbaum at uci dot edu</p>
