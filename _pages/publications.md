@@ -8,7 +8,7 @@ nav_order: 2---
 layout: page
 permalink: /publications/
 title: publications
-description: reverse chronological order
+description: 
 nav: true
 nav_order: 2
 ---
