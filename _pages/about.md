@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <bf>University of California, Irvine<br>
+subtitle: 
 
 selected_papers: false
 social: false
