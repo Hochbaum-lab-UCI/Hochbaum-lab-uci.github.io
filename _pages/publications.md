@@ -17,9 +17,6 @@ nav_order: 2
 
 Full lists on [Google Scholar](https://scholar.google.com/citations?user=_0R-1WMAAAAJ) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Hochbaum+AI&sort=date).
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
 
 <div class="publications">
 
@@ -27,15 +24,3 @@ Full lists on [Google Scholar](https://scholar.google.com/citations?user=_0R-1WM
 
 </div>
 ---
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
